@@ -1,7 +1,7 @@
 .Slider{
     position: relative;
-    width: 600px;
-    height: 400px;
+    width: 60px;
+    height: 40px;
     overflow: hidden;
     margin: 0 auto;
 }
@@ -23,7 +23,7 @@
     background-color: rgba(0, 0, 0, 0.5);
     color: #fff;
     border: none;
-    padding: 10px;
+    padding: 3px;
     cursor: pointer;
 }
 
