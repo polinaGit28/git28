@@ -20,17 +20,17 @@
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background-color: rgba(0, 0, 0, 0.5);
-    color: #fff;
+    background-color: rgb(1, 250, 13);
+    color: #f00c0c;
     border: none;
     padding: 3px;
     cursor: pointer;
 }
 
 .slider .prev {
-    left: 0;
+    left: 10;
 }
 
 .slider .next {
-    right: 0;
+    right: 10;
 }
